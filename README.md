@@ -14,7 +14,11 @@ Front-End: Crypto-Money
 	- Cursos
 		- Todos os cursos
 		- Meus cursos
-      -curso.id
+			- curso
+			- curso.id
+			- curso pagamento
+			- page 404
+			- page 500
 	- Fórum
 	- Livros
 	- Perfil
